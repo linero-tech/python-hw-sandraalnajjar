@@ -2,4 +2,13 @@ from to_do import TODO
 
 
 def task10():
-    return TODO("Erase this line and write your solution")
+    return """
+    INPUT email address
+    INPUT password 
+    If password > 6 characters 
+    OUTPUT true
+    If 6 = password < 6 
+    OUTPUT false
+
+    
+    """
