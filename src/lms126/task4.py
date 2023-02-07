@@ -1,4 +1,4 @@
-from to_do import TODO
+# from to_do import TODO
 
 
 def task4():
@@ -15,5 +15,5 @@ def task4():
     IF X > Y 
     OUTPUT X
     ELSE Y
-    OUTPUT this number has the greater value.
+    OUTPUT this number is greater value
     """
