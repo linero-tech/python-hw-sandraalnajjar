@@ -2,4 +2,10 @@ from to_do import TODO
 
 
 def task1():
-    TODO("Erase this line and write your solution")
+   print("Country: Syria")
+   print("Capital: Damascus")
+   print("Currency: SP")
+
+if __name__ == "__main__":
+       task1()
+
