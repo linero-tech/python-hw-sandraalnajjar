@@ -1,12 +1,10 @@
 # from to_do import TODO
 
 
-def task3():
-    radius = "10"
-    # perimeter of a circle =π * (2*10)
-    result = "62.8"
-    print("Assume that\t\n radius is 10\nThen\t\n result is 62.8")
-
+def task3(redius):
+    result = 2.0 * 3.14 * redius
+    return result
 
 if __name__ == "__main__":
-       task3()
+    result = task3(2.0)
+    print(result)
