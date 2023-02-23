@@ -1,15 +1,11 @@
 from to_do import TODO
 
-
+# Refactoring
 def task9(sentence, character):
+    return character.lower() in sentence.lower()
 
-
-    if character== "i":
-        print("true")
-    else: End
-    return print
 
 if __name__ == "__main__":
-   result= task9(sentence= "I code In KOTLIN", character= "i" )
-   print(result)
+    print(task9(sentence= "I code In KOTLIN", character= "i" ))
+
 
