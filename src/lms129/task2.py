@@ -9,10 +9,8 @@ def task2(number):
         for i in range(2,number+1):
             if (number % i) == 0:
                 print(False)
-            
-
-
-    return result
+            else:
+                return result
 
 
 if __name__ == "__main__":
