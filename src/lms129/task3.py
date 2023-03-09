@@ -12,4 +12,6 @@ def task3(number):
 
 if __name__ == "__main__":
     print(task3(5))
+   
+
 
