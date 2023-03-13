@@ -12,4 +12,5 @@ def task1(a, b):
 
 if __name__ == "__main__":
     print(task1(1, 5))
+    print(task1(3, 3))
 
