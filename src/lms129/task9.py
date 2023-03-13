@@ -1,7 +1,14 @@
-from to_do import TODO
+ from to_do import TODO
 
 
 def task9(temperature):
-    return TODO(
-        "Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword"
-    )
+    magnitude = 0
+    unit= ""
+
+    if unit is in celsius
+    else:
+      #convert to celsius
+    return result
+
+if __name__ == "__main__":
+    print(task9(15c))
